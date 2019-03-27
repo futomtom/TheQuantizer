@@ -18,7 +18,6 @@
 		F471B14A21F1CA7000005AA9 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = F471B14921F1CA7000005AA9 /* Helpers.swift */; };
 		F478127621F495EC00EAE87F /* libmediancut-posterizer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F478127521F495EC00EAE87F /* libmediancut-posterizer.a */; };
 		F4D8714321FFB8C300095F50 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = F4D8714221FFB8C300095F50 /* Credits.rtf */; };
-		F4FD06DE21F5BDFC00F5C6DB /* libpngnq.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F4FD06DD21F5BDFC00F5C6DB /* libpngnq.a */; };
 		F4FE1CF621F13349008C8C89 /* liblodepng.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F4FE1CF521F13349008C8C89 /* liblodepng.a */; };
 /* End PBXBuildFile section */
 
@@ -50,7 +49,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F44557BB21EFEA0C008FD227 /* liblibimagequant.a in Frameworks */,
-				F4FD06DE21F5BDFC00F5C6DB /* libpngnq.a in Frameworks */,
 				F478127621F495EC00EAE87F /* libmediancut-posterizer.a in Frameworks */,
 				F4FE1CF621F13349008C8C89 /* liblodepng.a in Frameworks */,
 			);
@@ -328,7 +326,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = MM696H2U5V;
+				DEVELOPMENT_TEAM = R6BNCHU7B8;
 				HEADER_SEARCH_PATHS = "/Users/simon/Library/Developer/Xcode/DerivedData/TheQuantizer-fdvdvyaizozvgvatmkongbkuuxuk/Build/Products/Release/include/";
 				INFOPLIST_FILE = TheQuantizer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -348,7 +346,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = MM696H2U5V;
+				DEVELOPMENT_TEAM = R6BNCHU7B8;
 				HEADER_SEARCH_PATHS = "/Users/simon/Library/Developer/Xcode/DerivedData/TheQuantizer-fdvdvyaizozvgvatmkongbkuuxuk/Build/Products/Release/include/";
 				INFOPLIST_FILE = TheQuantizer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

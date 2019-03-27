@@ -166,9 +166,6 @@ class DocumentViewController: NSViewController  {
 			case 1:
 				compressedImg = PosterizerCompressor.compress(buffer: bufferCopy, w: w, h: h, colorCount: self.colorsCount, shouldDither: ditheringEnabled)
 				break
-			case 2:
-				compressedImg = PngNQCompressor.compress(buffer: bufferCopy, w: w, h: h, colorCount: self.colorsCount, shouldDither: ditheringEnabled)
-				break
 			default:
 				break
 			}
